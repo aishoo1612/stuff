@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "778821966041",
+    "firebase_url": "https://wshapp-5912b.firebaseio.com",
+    "project_id": "wshapp-5912b",
+    "storage_bucket": "wshapp-5912b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778821966041:android:7c23e39643ac2a4fcf86c8",
+        "android_client_info": {
+          "package_name": "com.example.wshapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778821966041-ncjtf3bru61epas3ln7g10slsvvsd96a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wshapp",
+            "certificate_hash": "242fd370c9b70d2d0638be66278c6cd7ed7e5119"
+          }
+        },
+        {
+          "client_id": "778821966041-sr4vtqnaduejiavoiagijluga19gcta5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByFA4eL9VwtkWXUrTgSADi-vdn6mHIsUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778821966041-sr4vtqnaduejiavoiagijluga19gcta5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
